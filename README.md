@@ -23,5 +23,7 @@ In jupiter notebook, we verified and cleaned the duplicates. We deleted some out
 - Where are the best rated locations ? 
 - Is there a correlation between stars and price ? 
 
-
+## Links
+Link to the dashboard in Tableau public : https://public.tableau.com/views/Tableau_Airbnb_pricing_Paris/Tableaudebord1?:language=fr-FR&publish=yes&:display_count=n&:origin=viz_share_link
+Link to the story in Tableau public : https://public.tableau.com/shared/3NGG2F5YG?:display_count=n&:origin=viz_share_link
 
