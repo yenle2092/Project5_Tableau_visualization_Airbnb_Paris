@@ -1,5 +1,6 @@
 # Project_week_5
 
+Link visualization: https://public.tableau.com/views/Tableau_Airbnb_pricing_Paris_16771025267130/Story_Airbnb?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 ## Project goal
 The goals of this project is to develop the dashboard in Tableau that represents main insights (KPIs). THe dashboard should reflect the domain and be useful for the decisionb-making.
