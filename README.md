@@ -9,7 +9,7 @@ The goals of this project is to develop the dashboard in Tableau that represents
 #### Data collection:
 The dataset is listing information of Airbnb in Paris via Airbnb Scraper and extracted data with prices listed on the 19th of April 2022. 
 #### Data preparation: 
-We verified and cleaned the duplicates and we join an other table that contained districts information and the accomodation type. We deleted some outliers (where the number of guests was 0, or 89). 
+In jupiter notebook, we verified and cleaned the duplicates. We deleted some outliers (in the column number of guests was 0, or 89). With sql, we join two other tables that contained districts information and the accomodation type. 
 
 ## The insights we want to show
 - Where are the highest number of airbnb locations in Paris ? (with a maps, and repartition by arrondissement) 2
@@ -24,5 +24,7 @@ We verified and cleaned the duplicates and we join an other table that contained
 - Where are the best rated locations ? 
 - Is there a correlation between stars and price ? 
 
-
+## Links
+Link to the dashboard in Tableau public : https://public.tableau.com/views/Tableau_Airbnb_pricing_Paris/Tableaudebord1?:language=fr-FR&publish=yes&:display_count=n&:origin=viz_share_link
+Link to the story in Tableau public : https://public.tableau.com/shared/3NGG2F5YG?:display_count=n&:origin=viz_share_link
 
